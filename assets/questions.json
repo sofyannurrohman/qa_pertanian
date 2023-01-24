@@ -1,0 +1,87 @@
+[
+  {
+    "question": "Apa saja keuntungan menanam padi di dalam polybag?",
+    "options": [
+      {
+        "text": "Bisa ditanam kapan saja tanpa mengenal musim.",
+        "score": true
+      },
+      {
+        "text": "Hanya bisa ditanam pada waktu tertentu saja",
+        "score": false
+      },
+      {
+        "text": "Hanya bisa di tanam pada musim hujan",
+        "score": false
+      }
+    ]
+  },
+  {
+    "question": "Bagaimana cara menanam padi di dalam polybag?",
+    "options": [
+      {
+        "text": "Siapakan tanah, pupuk dan polybag, isi polybag itu dengan tanah dan pupuk, tambahkan air kedalam polybag tersebut, letakkan bibit kedalam polybag",
+        "score": false
+      },
+      {
+        "text": "Siapakan tanah, pupuk dan polybag, isi polybag itu dengan tanah dan pupuk, tambahkan air kedalam polybag tersebut, letakkan bibit kedalam polybag",
+        "score": false
+      },
+      {
+        "text": "Memiiih bibit yang unggul, lalu kita harus membuat/menyemai benih, menyiapkan media tanaman yang diiisi dengan tanah atau polybag yang diisi dengan pupuk, tempatkan padi di tempat yang sudah disiapkan",
+        "score": true
+      }
+    ]
+  },
+  {
+    "question": "Apa manfaat menanam padi ?",
+    "options": [
+      {
+        "text": "Sebagai bahan pembuatan pupuk",
+        "score": false
+      },
+      {
+        "text": "Untuk memperluas lahan",
+        "score": false
+      },
+      {
+        "text": "Sebagai bahan pokok makanan",
+        "score": true
+      }
+    ]
+  },
+  {
+    "question": "Berapa lama proses menanam padi hingga panen?",
+    "options": [
+      {
+        "text": "60 Hari",
+        "score": false
+      },
+      {
+        "text": "120 Hari",
+        "score": true
+      },
+      {
+        "text": "30 Hari",
+        "score": false
+      }
+    ]
+  },
+  {
+    "question": "Bagaimana Cara Mengolah Padi Menjadi Beras?",
+    "options": [
+      {
+        "text": "Padi di panen, lalu pisahkan gabah dari batangnya, keringkan gabah, kemudian melalui proses penggilingan, pemutihan beras, beras di timbang dan di kemas",
+        "score": true
+      },
+      {
+        "text": "Di panen,di siram dengan air, dikeringkan, di kemas",
+        "score": false
+      },
+      {
+        "text": "di panen, dikeringkan, dipisahkan dengan gabah,kemudian di rendam, di kemas",
+        "score": false
+      }
+    ]
+  }
+]
